@@ -1,0 +1,5 @@
+access_ip        = "0.0.0.0/0"
+dbname           = "somethingdb"
+dbuser           = "dbuser"
+dbpassword       = "somepassword"
+private_key_path = "/home/ubuntu/.ssh/keynem"
